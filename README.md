@@ -19,20 +19,6 @@ Tools and Technologies Used
 - Matplotlib
 - CSV Dataset
 
-Project Structure
-Data_Cleaning_Automation/
-│
-├── Dataset/
-│   └── Amazon Sales dataset.csv
-│
-├── Output/
-│   ├── top_brands.png
-│   ├── sales_distribution.png
-│   └── Cleaned_Sales_Data.csv
-│
-├── automation.py
-└── README.md
-
 Dataset Information
 
 The dataset contains sales-related information such as:
